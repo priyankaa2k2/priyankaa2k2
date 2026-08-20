@@ -1,16 +1,136 @@
-<h1 align="center">Hi I'm Priyankaa</h1>
-<h3 align="center">A passionate Java Developer</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+# Hi, I'm Priyankaa 👋
 
+### Java Developer | Backend Development | Data Structures & Algorithms
 
-- 🌱 I’m currently learning **Springboot**
+I'm a Java Developer focused on building backend applications using **Java, Spring Boot, REST APIs, JPA/Hibernate, and SQL**.
 
-- 💬 Ask me about **Java**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I enjoy solving **Data Structures & Algorithms** problems using Java and building practical backend projects to strengthen my software development skills.
 
+---
 
+## 👩‍💻 About Me
 
+* ☕ Focused on **Java Backend Development**
+* 🌱 Currently strengthening my skills in **Spring Boot and Backend Development**
+* 🧩 Practicing **Data Structures & Algorithms** on LeetCode
+* 🚀 Building an **Enterprise Order Management System**
+* 💾 Working with **MySQL and SQL**
+* 🔧 Using **Maven and Git** for development and version control
+* 🎯 Interested in building scalable and maintainable backend applications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaa2k2&" alt="priyankaa2k2" /></p>
+---
 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate"/>
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Enterprise Order Management System
+
+A backend application designed to manage users, products, and orders using a layered architecture.
+
+**Tech Stack:**
+`Java 17` `Spring Boot` `REST APIs` `JPA` `Hibernate` `MySQL` `Maven`
+
+**Key Areas:**
+
+* RESTful API development
+* User registration and management
+* Product and order management
+* DTO-based request/response handling
+* Service and repository layers
+* Input validation
+* Exception handling
+* Database persistence using JPA/Hibernate
+
+🔗 **[View Project](#)**
+
+---
+
+### 🧩 Java DSA & LeetCode
+
+A collection of my Data Structures & Algorithms practice using Java.
+
+**Topics I'm working on:**
+
+`Arrays` `Strings` `HashMap` `Two Pointers`
+`Sliding Window` `Binary Search` `Stack` `Linked List`
+`Trees` `Heap` `Recursion` `Greedy` `Dynamic Programming`
+
+🔗 **[View DSA Repository](#)**
+
+---
+
+## 📈 Coding Practice
+
+I use **Java as my primary language** for solving algorithmic problems and focus on understanding reusable problem-solving patterns rather than simply increasing the number of solved problems.
+
+Currently strengthening:
+
+* Data Structures
+* Algorithms
+* Problem-solving patterns
+* Time & Space Complexity
+* Java Collections
+* Recursion & Dynamic Programming
+
+---
+
+## 🎯 Current Focus
+
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+JPA / Hibernate
+  ↓
+MySQL
+  ↓
+Backend Projects
+  ↓
+Data Structures & Algorithms
+```
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://leetcode.com/u/Priyankaa2k2/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+⭐ **Always learning, building, and improving as a Java Backend Developer.**
