@@ -57,7 +57,7 @@ A production-quality backend application designed to handle enterprise workloads
 * DTO design pattern abstraction for clean, secure request/response payloads
 * Comprehensive global exception handling configurations and domain data validation structures
 
-🔗 **[View Repository](https://github.com)**
+🔗 **[View Repository](https://github.com/priyankaa2k2/enterprise-order-management-system)**
 
 ---
 
@@ -77,7 +77,7 @@ I aggressively practice algorithmic thinking to write optimized backend code wit
   <a href="https://leetcode.com/u/Priyankaa2k2/" target="_blank">
     <img src="https://shields.io" alt="LeetCode"/>
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com/in/priyankaa-k" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>
 </p>
