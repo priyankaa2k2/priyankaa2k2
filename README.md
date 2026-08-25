@@ -22,19 +22,9 @@ I enjoy solving **Data Structures & Algorithms** problems using Java and buildin
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate"/>
-</p>
+**Languages:** Java, SQL
+**Backend Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Spring Security, RESTful APIs, Microservices
+**Databases & Tools:** MySQL, PostgreSQL, Oracle, Git, Maven, Jenkins, Linux, AWS, Postman
 
 ---
 
@@ -61,7 +51,7 @@ I aggressively practice algorithmic thinking to write optimized backend code wit
 **Primary Language:** Java
 **Focus Areas:** Arrays, Strings, HashMaps, Two Pointers, Sliding Window, Binary Search, Linked Lists, Trees, Stacks, Heap, Recursion, and Dynamic Programming.
 
-🔗 **[View Live LeetCode Progress & Matrix Metrics](https://leetcode.com/u/Priyankaa2k2/)**
+
 
 ---
 
