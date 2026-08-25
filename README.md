@@ -1,10 +1,10 @@
 # Hi, I'm Priyankaa 👋
 
-### Java Developer | Backend Development | Data Structures & Algorithms
+### Java Backend Developer | Spring Boot | REST APIs | SQL
 
-I'm a Java Developer focused on building backend applications using **Java, Spring Boot, REST APIs, JPA/Hibernate, and SQL**.
+I’m a Java developer focused on building backend applications using **Java, Spring Boot, REST APIs, SQL, and Spring Security.**
 
-I enjoy solving **Data Structures & Algorithms** problems using Java and building practical backend projects to strengthen my software development skills.
+I have experience working with backend development concepts including API design, authentication and authorization, database integration, JPA/Hibernate, exception handling, validation, and transactional business logic.
 
 ---
 
@@ -22,36 +22,58 @@ I enjoy solving **Data Structures & Algorithms** problems using Java and buildin
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, SQL
-**Backend Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Spring Security, RESTful APIs, Microservices
-**Databases & Tools:** MySQL, PostgreSQL, Oracle, Git, Maven, Jenkins, Linux, AWS, Postman
+**Languages**
+Java
+SQL
+
+**Backend**
+Spring Boot
+Spring Security
+REST APIs
+Spring Data JPA
+Hibernate
+
+**Database**
+MySQL
+PostgreSQL
+
+**Tools**
+Maven
+Git & GitHub
+Postman
+Swagger / OpenAPI
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Project
 
 ### 🏢 Enterprise Order Management System
-A production-quality backend application designed to handle enterprise workloads using a robust layered architecture.
+A Java/Spring Boot backend application for managing users, products, inventory, and customer orders.
 
-**Tech Stack:** `Java 17` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `Docker` `REST APIs` `Maven`
+**Tech Stack:** `Java 17` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `REST APIs` `Maven`
 
 **Key Focus Areas:**
-* Secure RESTful API endpoint design and token-based validation using Spring Security & JWT
-* Database persistence, complex entity relationship mapping, and transaction management with Hibernate
-* DTO design pattern abstraction for clean, secure request/response payloads
-* Comprehensive global exception handling configurations and domain data validation structures
+* JWT-based authentication and authorization
+* Role-based access control
+* RESTful APIs
+* DTO-based request/response handling
+* JPA/Hibernate entity relationships
+* Transactional order processing
+* Inventory management
+* Global exception handling
+* Input validation
+* MySQL database integration
 
 🔗 **[View Repository](https://github.com/priyankaa2k2/enterprise-order-management-system)**
 
 ---
 
-## 🧩 Algorithmic Problem Solving
-I aggressively practice algorithmic thinking to write optimized backend code with great performance footprints.
-
-**Primary Language:** Java
-**Focus Areas:** Arrays, Strings, HashMaps, Two Pointers, Sliding Window, Binary Search, Linked Lists, Trees, Stacks, Heap, Recursion, and Dynamic Programming.
-
-
+## 📚 Continuous Learning
+* Data Structures & Algorithms
+* Backend development with Java and Spring Boot
+* REST API design
+* SQL and relational database concepts
+* Software engineering and clean code practices
 
 ---
 
