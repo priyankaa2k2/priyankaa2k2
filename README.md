@@ -23,23 +23,17 @@ I enjoy solving **Data Structures & Algorithms** problems using Java and buildin
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Java"/>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
 </p>
 
-### Backend Frameworks
-<p>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Spring"/>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Hibernate"/>
-</p>
+### Backend
 
-### Databases & Tools
 <p>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="MySQL"/>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Maven"/>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Git"/>
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate"/>
 </p>
 
 ---
@@ -73,12 +67,13 @@ I aggressively practice algorithmic thinking to write optimized backend code wit
 
 ## 📫 Connect With Me
 
+
 <p>
-  <a href="https://leetcode.com/u/Priyankaa2k2/" target="_blank">
-    <img src="https://shields.io" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Priyankaa2k2/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://linkedin.com/in/priyankaa-k" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/priyankaa-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
